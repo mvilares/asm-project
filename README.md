@@ -41,7 +41,7 @@ To make sure that both code and electronic circuit work properly, the following 
 | USB Cable         | 1        |
 
 The implementation schematic provided below shows how the electronic circuit can be constructed from the provided components.
-![alt text](https://raw.githubusercontent.com/mvilares/asm-project/master/Schematic.PNG "Schematic")
+![alt text](https://raw.githubusercontent.com/mvilares/asm-project/master/schematic.png "Schematic")
 
 ### The source code
 [Source code file](https://github.com/mvilares/asm-project/blob/master/8BitCalculator/8BitCalculator/main.asm)
