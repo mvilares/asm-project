@@ -27,17 +27,16 @@ To make sure that both code and electronic circuit work properly, it is needed t
 ## Implementation
 ### Components
 * LEDs - 16
-* small buttons - 2
-* big buttons - 2
-* red cup -1
-* blue cup -1
-* wires - 30
-* resisters -
-..* 220Ω  - 16
-..* 1kΩ - 4
-* arduino board mega2560 - 1
-* breadboard - 1
-* usb cable - 1
+* Small Buttons - 2
+* Big Buttons - 2
+* Red Button Cover - 1
+* Blue Button Cover - 1
+* Wires - 30
+* 220Ω Resistors - 16
+* 1kΩ Resistors - 4
+* Arduino Mega 2560 - 1
+* Breadboard - 1
+* USB Cable - 1
 
 ### The source code
 [Source code file](https://github.com/mvilares/asm-project/blob/master/8BitCalculator/8BitCalculator/main.asm)
