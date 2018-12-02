@@ -1,0 +1,89 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\Debug\8BitCalculator.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>8BitCalculator.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>8BitCalculator.map</FILE>
+  <FILE>8BitCalculator.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>35</LINE></SETUP>
+  <MAIN_LOOP><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>52</LINE></MAIN_LOOP>
+  <MAIN_LOOP_DELAY_SETUP><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>79</LINE></MAIN_LOOP_DELAY_SETUP>
+  <MAIN_LOOP_SV><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>67</LINE></MAIN_LOOP_SV>
+  <MAIN_LOOP_FV><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>58</LINE></MAIN_LOOP_FV>
+  <SKIP_RESET_CT><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>72</LINE></SKIP_RESET_CT>
+  <MAIN_LOOP_DELAY><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>84</LINE></MAIN_LOOP_DELAY>
+  <SET_TO_ONE_BUTTON><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>85</LINE></SET_TO_ONE_BUTTON>
+  <STO_CONTINUE><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>90</LINE></STO_CONTINUE>
+  <SET_TO_ONE><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>126</LINE></SET_TO_ONE>
+  <SET_TO_ZERO_BUTTON><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>92</LINE></SET_TO_ZERO_BUTTON>
+  <STZ_CONTINUE><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>97</LINE></STZ_CONTINUE>
+  <SET_TO_ZERO><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>181</LINE></SET_TO_ZERO>
+  <OP_PLUS_BUTTON><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>99</LINE></OP_PLUS_BUTTON>
+  <OPP_CONTINUE><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>104</LINE></OPP_CONTINUE>
+  <OP_PLUS><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>312</LINE></OP_PLUS>
+  <OP_SUBSTRACT_BUTTON><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>107</LINE></OP_SUBSTRACT_BUTTON>
+  <OPS_CONTINUE><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>112</LINE></OPS_CONTINUE>
+  <OP_SUB><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>331</LINE></OP_SUB>
+  <CONTINUE_MAIN_LOOP_DELAY><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>114</LINE></CONTINUE_MAIN_LOOP_DELAY>
+  <DEBOUNCE><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>351</LINE></DEBOUNCE>
+  <SKIP_SET_FB><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>135</LINE></SKIP_SET_FB>
+  <SET_FIRST_BIT><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>236</LINE></SET_FIRST_BIT>
+  <SKIP_SET_SB><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>139</LINE></SKIP_SET_SB>
+  <SET_SECOND_BIT><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>240</LINE></SET_SECOND_BIT>
+  <SKIP_SET_TB><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>143</LINE></SKIP_SET_TB>
+  <SET_THIRD_BIT><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>244</LINE></SET_THIRD_BIT>
+  <SKIP_SET_FOB><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>147</LINE></SKIP_SET_FOB>
+  <SET_FOURTH_BIT><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>248</LINE></SET_FOURTH_BIT>
+  <SKIP_SET_FIB><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>151</LINE></SKIP_SET_FIB>
+  <SET_FIFTH_BIT><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>252</LINE></SET_FIFTH_BIT>
+  <SKIP_SET_SIB><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>155</LINE></SKIP_SET_SIB>
+  <SET_SIXTH_BIT><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>256</LINE></SET_SIXTH_BIT>
+  <SKIP_SET_SEB><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>159</LINE></SKIP_SET_SEB>
+  <SET_SEVENTH_BIT><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>260</LINE></SET_SEVENTH_BIT>
+  <SKIP_SET_EB><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>176</LINE></SKIP_SET_EB>
+  <SET_EIGHTH_BIT><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>264</LINE></SET_EIGHTH_BIT>
+  <FINAL_UPDATE_FV><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>164</LINE></FINAL_UPDATE_FV>
+  <FINAL_UPDATE_SV><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>169</LINE></FINAL_UPDATE_SV>
+  <NO_UPDATE_REQ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>174</LINE></NO_UPDATE_REQ>
+  <SKIP_SET_FBZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>190</LINE></SKIP_SET_FBZ>
+  <SET_FIRST_BITZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>274</LINE></SET_FIRST_BITZ>
+  <SKIP_SET_SBZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>194</LINE></SKIP_SET_SBZ>
+  <SET_SECOND_BITZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>278</LINE></SET_SECOND_BITZ>
+  <SKIP_SET_TBZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>198</LINE></SKIP_SET_TBZ>
+  <SET_THIRD_BITZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>282</LINE></SET_THIRD_BITZ>
+  <SKIP_SET_FOBZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>202</LINE></SKIP_SET_FOBZ>
+  <SET_FOURTH_BITZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>286</LINE></SET_FOURTH_BITZ>
+  <SKIP_SET_FIBZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>206</LINE></SKIP_SET_FIBZ>
+  <SET_FIFTH_BITZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>290</LINE></SET_FIFTH_BITZ>
+  <SKIP_SET_SIBZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>210</LINE></SKIP_SET_SIBZ>
+  <SET_SIXTH_BITZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>294</LINE></SET_SIXTH_BITZ>
+  <SKIP_SET_SEBZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>214</LINE></SKIP_SET_SEBZ>
+  <SET_SEVENTH_BITZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>298</LINE></SET_SEVENTH_BITZ>
+  <SKIP_SET_EBZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>231</LINE></SKIP_SET_EBZ>
+  <SET_EIGHTH_BITZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>302</LINE></SET_EIGHTH_BITZ>
+  <FINAL_UPDATE_FVZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>219</LINE></FINAL_UPDATE_FVZ>
+  <FINAL_UPDATE_SVZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>224</LINE></FINAL_UPDATE_SVZ>
+  <NO_UPDATE_REQZ><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>229</LINE></NO_UPDATE_REQZ>
+  <NO_CARRY><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>326</LINE></NO_CARRY>
+  <NO_CARRY_S><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>345</LINE></NO_CARRY_S>
+  <DEBOUNCE_DELAY_SETUP><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>352</LINE></DEBOUNCE_DELAY_SETUP>
+  <DEBOUNCE_DELAY><FILE>D:\OneDrive - ViaUC\CAO\8BitCalculator\8BitCalculator\main.asm</FILE><LINE>356</LINE></DEBOUNCE_DELAY>
+ </LABELS>
+</ASSEMBLER_INFO>
