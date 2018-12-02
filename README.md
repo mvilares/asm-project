@@ -15,7 +15,7 @@ The state machine diagram offers a clear representation of the states the system
 ![alt text](https://raw.githubusercontent.com/mvilares/asm-project/master/StateMachine.PNG "State-machine diagram")
 
 ## Testing plan
-To make sure that both code and electronic circuit work properly, it is needed to test the following:
+To make sure that both code and electronic circuit work properly, the following needs to be tested:
 
 * Connections of the electronic components
 * Result of calculations
@@ -26,17 +26,22 @@ To make sure that both code and electronic circuit work properly, it is needed t
 
 ## Implementation
 ### Components
-* LEDs - 16
-* Small Buttons - 2
-* Big Buttons - 2
-* Red Button Cover - 1
-* Blue Button Cover - 1
-* Wires - 30
-* 220Ω Resistors - 16
-* 1kΩ Resistors - 4
-* Arduino Mega 2560 - 1
-* Breadboard - 1
-* USB Cable - 1
+| Component         | Quantity |
+|-------------------|----------|
+| LEDs              | 16       |
+| Small buttons     | 2        |
+| Big buttons       | 2        |
+| Red button cover  | 1        |
+| Blue button cover | 1        |
+| Wires             | 30       |
+| Resistors (200Ω)  | 16       |
+| Resistors (1kΩ)   | 4        |
+| Arduino Mega 2560 | 1        |
+| Breadboard        | 1        |
+| USB Cable         | 1        |
+
+The implementation schematic provided below shows how the electronic circuit can be constructed from the provided components.
+![alt text](https://raw.githubusercontent.com/mvilares/asm-project/master/Schematic.PNG "Schematic")
 
 ### The source code
 [Source code file](https://github.com/mvilares/asm-project/blob/master/8BitCalculator/8BitCalculator/main.asm)
